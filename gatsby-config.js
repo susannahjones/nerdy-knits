@@ -1,12 +1,11 @@
 module.exports = {
   siteMetadata: {
-    // edit below
     title: `Nerdy Knits`,
     author: `susannahcodes`,
     description: `A knitting blog. WRITE ME.`,
-    siteUrl: `https://nerdyknits.xyz`,
+    siteUrl: `https://www.nerdyknits.xyz`,
     social: {
-      twitter: `gatsbyjs`,
+      twitter: `susannahcodes`,
     },
   },
   plugins: [

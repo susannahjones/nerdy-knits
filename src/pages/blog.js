@@ -7,6 +7,7 @@ import SEO from "../components/seo"
 import Button from "../components/button"
 import SearchPosts from "../components/searchPosts"
 
+//Todo, rename this?
 class Blog extends React.Component {
   render() {
     const { data, navigate, location } = this.props
